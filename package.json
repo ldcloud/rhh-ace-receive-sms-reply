@@ -1,0 +1,15 @@
+{
+  "name": "node-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-connect.js",
+  "scripts": {
+    "start": "node node-connect.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telstra-messaging": "^1.0.0"
+  }
+}
